@@ -1,4 +1,57 @@
-p {
-    border: 1px solid powderblue;
-    margin: 50px;
+body {
+background-image: url("https://images5.alphacoders.com/685/thumb-1920-685935.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-position: right 50% bottom 80%;
 }
+h1 {
+    color: Black;
+    background-color: powderblue;
+}
+p {
+    color: Black;
+    font-size: 15px;
+    background-color: lightblue;
+    text-align: center;
+  }
+h2 {
+  color: green;
+  font-size: 25px;
+}
+h3 {
+  color: Black;
+  font-size: 25px;
+  background-color: lightblue;
+  float:center;
+}
+div {
+    background-color: lightblue;
+}
+/*this is a class test if does not work remove*/
+.Menu {
+    background-color: blue;
+    overflow: hidden;
+    transition: top 0.3s;
+
+}
+.Menu a {
+    float: left;
+    color: Black;
+    text-align:center;
+    padding: 15px 16px;
+    font-size: 20px;
+    transition: top 0.3s;
+    }
+  .center {
+        width: 15%;
+        border: 3px solid blue;
+        padding: 10px;
+        height:10%
+      }
+
+  .center2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
