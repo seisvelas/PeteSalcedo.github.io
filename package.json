@@ -1,0 +1,31 @@
+{
+  "name": "petesalcedo.github.io",
+  "version": "2.0.0",
+  "description": "An awsome webpage using react and all the great skills i learned @ holacode",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "mathjs": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteSalcedo/PeteSalcedo.github.io.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Pete Salcedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeteSalcedo/PeteSalcedo.github.io/issues"
+  },
+  "homepage": "https://github.com/PeteSalcedo/PeteSalcedo.github.io#readme"
+}
